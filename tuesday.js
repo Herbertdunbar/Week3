@@ -1,7 +1,7 @@
 console.log("TUESDAY")
 // single line comment
 
-/* slash star
+/* slash star starts a multiline
 wraps a multi line comment
 2
 3
@@ -22,6 +22,7 @@ double = number * 2 //now we can do math!
 console.log(double) //expecting 246.9
 
 d = new Date() //create a new data object (today)
+console.log(d)
 ms = d.getTime()
 console.log(d.getTime(ms)) //ms simce 1/1/1970 00:00:
 // F5 (fn 5 or fn F5) - RUN/DEBUG/EXECUTE
