@@ -15,7 +15,7 @@ let height = 50;
 let minimum = 55;
 
 // precalulating the boolean expression into variable
-let canRide = height>= minimum; // no/false vs yes/true
+let canRide = height >= minimum; // no/false vs yes/true
 
 console.log("START"); //unconditional - always
 
